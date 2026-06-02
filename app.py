@@ -291,7 +291,7 @@ def css():
 
 def sidebar():
     pages = [
-        ("📹", "Giám sát"),
+        ("📹", "Giám sát "),
         ("📋", "Sự kiện"),
         ("🔔", "Cảnh báo"),
         ("🕘", "Lịch sử video"),
